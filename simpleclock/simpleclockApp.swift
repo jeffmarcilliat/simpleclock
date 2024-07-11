@@ -16,6 +16,6 @@ struct ClockApp: App {
         .defaultSize(width: 300, height: 300)
         .windowStyle(.plain)
         .windowResizability(.contentSize)
-        .windowManagerRole(.automatic)
+//        .windowManagerRole(.automatic)
     }
 }
