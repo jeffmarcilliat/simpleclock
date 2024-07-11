@@ -8,10 +8,14 @@
 import SwiftUI
 
 @main
-struct simpleclockApp: App {
+struct ClockApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
+        .defaultSize(width: 300, height: 300)
+        .windowStyle(.plain)
+        .windowResizability(.contentSize)
+        .windowManagerRole(.automatic)
     }
 }
