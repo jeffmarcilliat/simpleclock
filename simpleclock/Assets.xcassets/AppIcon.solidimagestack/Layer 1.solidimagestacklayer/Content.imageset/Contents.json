@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "transparent_clock.png",
       "idiom" : "vision",
       "scale" : "2x"
     }

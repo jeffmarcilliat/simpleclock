@@ -5,13 +5,16 @@
   },
   "layers" : [
     {
-      "filename" : "Front.solidimagestacklayer"
+      "filename" : "Layer 1.solidimagestacklayer"
     },
     {
-      "filename" : "Middle.solidimagestacklayer"
-    },
-    {
-      "filename" : "Back.solidimagestacklayer"
+      "filename" : "Layer 2.solidimagestacklayer"
     }
-  ]
+  ],
+  "properties" : {
+    "canvasSize" : {
+      "height" : 512,
+      "width" : 512
+    }
+  }
 }
